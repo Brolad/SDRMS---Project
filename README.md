@@ -72,19 +72,19 @@ For this prototype we will be using Plain Text Passwords, but in a real universi
 
 This is the high-level view diagram:
 
-![ChatGPT Image May 5, 2026, 04_46_13 PM.png](attachment:318e67f9-7411-43d5-9698-27624a1214e2:ChatGPT_Image_May_5_2026_04_46_13_PM.png)
+![diagram.png](attachment:276c420f-3fa9-42ed-963c-c09a64b54cfb:diagram.png)
 
 ## 4II) The Logical Model (Table Structures)
 
 This is where we define the tables and how they link:
 
-![ChatGPT Image May 5, 2026, 05_20_53 PM.png](attachment:008a4f19-8dc7-4b2f-a8f5-bd07398f6a4b:ChatGPT_Image_May_5_2026_05_20_53_PM.png)
+![table.png](attachment:f8c5c7b7-eaef-4f81-93bf-6bf46542cba5:table.png)
 
 ## 4III) UI Wireframing (The Visual Layout)
 
 These are "Mockups" (sketches) of the interface:
 
-![ChatGPT Image May 5, 2026, 04_57_42 PM.png](attachment:1ecb7041-1d8c-43f6-98c4-efc3b413c1f4:0b8b6429-f679-4955-9aa8-960be9bba889.png)
+![sketch.png](attachment:2e20d767-fca3-4cc4-b2da-643c8496f299:sketch.png)
 
 # 5. Technical Stack
 
